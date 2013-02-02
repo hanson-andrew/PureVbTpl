@@ -1,0 +1,1 @@
+﻿Public Delegate Function Func(Of TArg1, TArg2, TArg3, TArg4, TArg5, TResult)(ByVal TArg1, ByVal TArg2, ByVal TArg3, ByVal TArg4, ByVal TArg5) As TResult
